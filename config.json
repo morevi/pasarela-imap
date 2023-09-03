@@ -1,0 +1,9 @@
+{
+    "imap_storage": "/tmp/pasarela",
+    "imap_log": "/var/log/pasarela",
+    "imap_default_page_size": 10,
+    "imap_allowed_accounts": {
+        "1998morevi@gmail.com": {"server": "imap.gmail.com", "port": 993},
+        "morevi@correo.ugr.es": {"server": "correo.ugr.es", "port": 143}
+    }
+}
